@@ -1,7 +1,7 @@
 # Learning from a Learner
 Implements code from LfL paper (http://proceedings.mlr.press/v97/jacq19a/jacq19a.pdf).
 
-## grid words
+## Grid words
 To reproduce results for experiment 6.1 (table 1) run
 `python soft_policy_inversion.py`
 To reproduce results for experiment 6.1 (table 1) run

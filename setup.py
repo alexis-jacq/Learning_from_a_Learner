@@ -8,7 +8,7 @@ def readme():
         return f.read()
 
 setup(
-  name='Learning from a Learner',
+  name='lfl',
   version='0.0.1',
   license='Apache License',
   description='Implements code from LfL paper (http://proceedings.mlr.press/v97/jacq19a/jacq19a.pdf).',

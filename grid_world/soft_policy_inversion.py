@@ -10,7 +10,7 @@ from mdp_utils import solve_entropy_regularized_mdp
 import numpy as np
 import torch
 import torch.nn as nn
-from google3.pyglib import app
+from pyglib import app
 
 
 def main(unused_argv):
